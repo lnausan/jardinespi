@@ -1579,6 +1579,22 @@ a.tools-stack-name:hover {
     box-sizing: border-box;
 }
 
+.tools-reference-outcome {
+    margin: 1.25rem 0 0;
+    padding: 1rem 1.2rem;
+    font-size: 1.05rem;
+    font-weight: 800;
+    line-height: 1.5;
+    color: var(--ink);
+    background: var(--yellow-soft);
+    border: var(--border);
+    border-radius: var(--radius-md);
+    box-shadow: 3px 3px 0 var(--ink);
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+}
+
 .tools-demo {
     position: relative;
     overflow: hidden;
